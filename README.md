@@ -5,6 +5,7 @@ Olá, seja bem vindo ao meu projeto Fokus, feito durante o curso de JavaScript: 
 
 # Atualização
 Olá, o projeto Fokus foi atualizado durante o curso de JavaScript: explorando a manipulação de elementos e da localStorage da alura.
+Verificar a branch JavaScript-explorando-a-manipulação-de-elementos-e-da-localStorage
 
 ![image](https://github.com/user-attachments/assets/bf87a750-e92a-44fe-a909-e15b038e7b16)
 
